@@ -4,7 +4,7 @@ import { useCurrentUser } from "./hooks/useCurrentUser";
 import {Link} from "react-router-dom";
 
 
-const distanceThreshold = 20; // Threshold distance in meters
+const distanceThreshold = 17; // Threshold distance in meters
 
 const LocationChecker = () => {
   
